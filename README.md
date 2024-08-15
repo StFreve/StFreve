@@ -25,7 +25,7 @@
 
 <div>
 <h2><b>⚡ Recent GitHub Activity</b></h2>
-  <a href="https://github.com/stfreve/"><img width="400px" alt="StFreve' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=StFreve&theme=react" /></a>
+  <a href="https://github.com/stfreve/"><img align="center" width="400px" alt="StFreve' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=StFreve&theme=react" /></a>
 </div>
 
 
