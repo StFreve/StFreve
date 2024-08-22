@@ -13,7 +13,7 @@
 
 🔧 Mostly use: `С++`, `Python`, `Perl`, `MongoDB`, `SQLite`, `ReactJS`
 
-🎮 Love to play different Turn-Based Strategies and World of Warcraft. Sometimes even stream <a href="http://twitch.com/StFreve" target="_blank"><img height="16px" src="https://static-00.iconduck.com/assets.00/twitch-icon-489x512-jqw4vk2h.png"></a>. Trying to utilize my programming skills by developing different [WeakAuras](https://wago.io/StFreve) for World of Warcraft: 
+🎮 Love to play different Turn-Based Strategies and World of Warcraft. Sometimes even stream <a href="http://twitch.com/StFreve" target="_blank"><img height="16px" src="https://static-00.iconduck.com/assets.00/twitch-icon-489x512-jqw4vk2h.png"></a>. Trying to utilize my programming skills by developing different [WeakAuras](https://wago.io/p/StFreve) for World of Warcraft: 
 
 📖 Fan of Epic Fantasy Genre, such as [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time)
 
