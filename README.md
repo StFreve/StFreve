@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 
-✨ **Software Developer** with over 8 years of experience in C++ and Python development. Passionate about continuous learning, experimenting with new technologies, and pushing the boundaries of what's possible. Currently working at <a href="https://www.onetick.com" target="_blank"><img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jfUTZCv0nnWlxWW5bKr7kRBYxFCpLhQgBQ&s"></a> on the **Administration and Monitoring (AM)** project, a platform used for remote configuration, maintenance, and monitoring of components in a centralized OneTick database.
+✨ **Software Developer** with over 8 years of experience in C++ and Python development. Passionate about continuous learning, experimenting with new technologies, and pushing the boundaries of what's possible. Currently working at <a href="https://www.onetick.com" target="_blank"><img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jfUTZCv0nnWlxWW5bKr7kRBYxFCpLhQgBQ&s"></a> on the **Administration and Monitoring (AM)** project, a platform used for remote configuration, maintenance, and monitoring of OneTick database components in a centralized manner.
 
 🔧 **Technologies I Use:**
 - **Languages:** `C++`, `Python`, `Perl`, `Lua`
