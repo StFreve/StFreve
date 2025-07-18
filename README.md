@@ -19,7 +19,7 @@
 
 🎮 **Hobbies:**  
 - **Games:** Avid player of Turn-Based Strategy games and **World of Warcraft**.  
-- **Streaming:** Occasionally stream on <a href="http://twitch.com/StFreve" target="_blank">Twitch</a> <img height="16px" src="https://static-00.iconduck.com/assets.00/twitch-icon-489x512-jqw4vk2h.png">.  
+- **Streaming:** Occasionally stream on <a href="http://twitch.com/StFreve" target="_blank">Twitch</a> <img height="16px" src="https://cdn-icons-png.freepik.com/64/4926/4926630.png?fd=1&filename=twitch_4926630.png">.  
 - **Development:** Create [WeakAuras](https://wago.io/p/StFreve) for World of Warcraft to enhance gameplay experiences.
 
 📖 **Interests:**  
